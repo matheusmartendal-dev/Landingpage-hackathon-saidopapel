@@ -1,0 +1,6 @@
+{
+  "name": "Network - Crypto & Fintech Security",
+  "description": "Plataforma de inovação e incubação de hackathons da Sai do Papel. Transformando suas grandes ideias em produtos funcionais, MVPs e ecossistemas corporativos disruptivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
