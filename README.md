@@ -1,4 +1,4 @@
-# Sai do Papel - Plataforma de Inovação
+# Sai do Papel - Landing Page voltada para empresas que buscam Inovação
 
 Seja muito bem-vindo ao repositório oficial da nossa plataforma de inovação e hackathons. Este projeto foi concebido e esculpido sob medida para oferecer uma experiência digital imersiva, performática e extremamente refinada, conectando organizações renomadas, gestores e mentes brilhantes a soluções de negócios de alto impacto.
 
