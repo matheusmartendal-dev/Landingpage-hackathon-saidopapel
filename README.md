@@ -67,4 +67,4 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
 ---
 
-*Este projeto reflete dedicação, cuidado absoluto com a experiência do usuário final e paixão por engenharia de software de alto nível.*
+Desenvolvido por: Matheus Martendal e Sai do Papel
