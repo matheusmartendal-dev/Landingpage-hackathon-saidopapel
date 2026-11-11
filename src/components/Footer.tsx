@@ -43,7 +43,7 @@ export default function Footer() {
           <div className="col-span-12 md:col-span-4 flex flex-col items-start gap-4">
             <a href="#" className="flex items-center gap-2">
               <img
-                src="https://saidopapel.com.br/wp-content/webp-express/webp-images/uploads/2021/03/cropped-Logo-SdP-fundos-escuros.png.webp"
+                src="https://saidopapel.com.br/img/cropped-Logo-SdP-fundos-escuros.png"
                 alt="Sai do Papel"
                 referrerPolicy="no-referrer"
                 className="h-10 md:h-13 object-contain transition-transform duration-200 hover:scale-[1.02]"
